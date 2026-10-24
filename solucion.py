@@ -1,6 +1,6 @@
 """Prueba individual · Estructuras de Datos · Parte II
 
-Nombre: ____________________________   Documento: ______________
+Nombre: Andres David Agudelo Henao   Documento: 1011395989
 
 Metodología del curso (SDD): la especificación manda. El contrato exacto de
 cada función está en test_contrato.py. Léelo ANTES de programar: lo que no
