@@ -133,7 +133,7 @@ A =
 B = len vale 8, altura es 3 y la altura de un ABB vacio es 0 / Son 8 datos los que hay en el arbol, los duplicados no cuentan, altura es 4 porque va de 50 a 45   
 C =  r.izquierdo.derecho.derecho.dato vale 45 y el r.izquierdo.derecho.izquierdo.dato da none  
 D = 25, 30, 40, 45, 50, 60, 70, 80 / basicamente de menor a mayor  
-E = 
+E = r.izquierdo.dato es 40 / 50, 40, 25, 45, 70, 60, 80.
 ```python
           50
         /    \
