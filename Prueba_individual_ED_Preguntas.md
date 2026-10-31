@@ -130,7 +130,7 @@ A =
           45
 ```
 
-B = len vale 8, altura es 4 y la altura de un ABB vacio es 0 / Son 8 datos los que hay en el arbol, los duplicados no cuentan, altura es 4 porque va de 50 a 45   
+B = len vale 8, altura es 3 y la altura de un ABB vacio es 0 / Son 8 datos los que hay en el arbol, los duplicados no cuentan, altura es 4 porque va de 50 a 45   
 C =  r.izquierdo.derecho.derecho.dato vale 45 y el r.izquierdo.derecho.izquierdo.dato da none  
 D = 25, 30, 40, 45, 50, 60, 70, 80 / basicamente de menor a mayor  
 E = 
